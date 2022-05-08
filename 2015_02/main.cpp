@@ -13,7 +13,7 @@ int main() {
         exit(1);
     }
 
-    line[0] = '\0'
+    line[0] = '\0';
 
     fptr = fopen("input.txt", "r");
     int symb = 0;
